@@ -1,7 +1,7 @@
 # Python complex data structures
 ## - The content should be the following
-- Algorithm Analysis and Big-O Notation
-- Array Sequences
+> Algorithm Analysis and Big-O Notation
+> Array Sequences
 > - Stacks Queues and Deques
 > - Linked Lists
 > - Recursion
